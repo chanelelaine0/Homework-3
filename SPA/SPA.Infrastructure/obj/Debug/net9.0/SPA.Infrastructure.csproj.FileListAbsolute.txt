@@ -1,0 +1,5 @@
+C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.csproj.AssemblyReference.cache
+C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.AssemblyInfoInputs.cache
+C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.AssemblyInfo.cs
+C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.AssemblyInfoInputs.cache
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.AssemblyInfo.cs
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.csproj.CoreCompileInputs.cache
+C:\PROJECT\SPA\SPA.Domain\bin\Debug\net9.0\SPA.Domain.deps.json
+C:\PROJECT\SPA\SPA.Domain\bin\Debug\net9.0\SPA.Domain.dll
+C:\PROJECT\SPA\SPA.Domain\bin\Debug\net9.0\SPA.Domain.pdb
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.dll
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\refint\SPA.Domain.dll
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.pdb
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\ref\SPA.Domain.dll
