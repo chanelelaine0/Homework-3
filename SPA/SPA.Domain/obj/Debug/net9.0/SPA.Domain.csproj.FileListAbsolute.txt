@@ -9,3 +9,4 @@ C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.dll
 C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\refint\SPA.Domain.dll
 C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.pdb
 C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\ref\SPA.Domain.dll
+C:\PROJECT\SPA\SPA.Domain\obj\Debug\net9.0\SPA.Domain.sourcelink.json

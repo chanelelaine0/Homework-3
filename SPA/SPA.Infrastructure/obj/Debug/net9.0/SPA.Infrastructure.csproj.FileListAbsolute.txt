@@ -3,3 +3,4 @@ C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.GeneratedM
 C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.AssemblyInfoInputs.cache
 C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.AssemblyInfo.cs
 C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PROJECT\SPA\SPA.Infrastructure\obj\Debug\net9.0\SPA.Infrastructure.sourcelink.json
