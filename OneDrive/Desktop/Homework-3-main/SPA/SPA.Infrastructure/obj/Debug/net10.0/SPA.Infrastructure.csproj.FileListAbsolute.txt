@@ -32,3 +32,4 @@ C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Infrastructure\obj\Debug
 C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Infrastructure\obj\Debug\net10.0\SPA.Infrastructure.pdb
 C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Infrastructure\obj\Debug\net10.0\SPA.Infrastructure.genruntimeconfig.cache
 C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Infrastructure\obj\Debug\net10.0\ref\SPA.Infrastructure.dll
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Infrastructure\obj\Debug\net10.0\SPA.Infrastructure.sourcelink.json

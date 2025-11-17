@@ -345,3 +345,4 @@ C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.API\obj\Debug\net10.0\SP
 C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.API\obj\Debug\net10.0\SPA.API.genruntimeconfig.cache
 C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.API\obj\Debug\net10.0\ref\SPA.API.dll
 C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.API\obj\Debug\net10.0\SPA.API.sourcelink.json
