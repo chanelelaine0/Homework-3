@@ -1,0 +1,6 @@
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Application\obj\Debug\net10.0\SPA.Application.csproj.AssemblyReference.cache
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Application\obj\Debug\net10.0\SPA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Application\obj\Debug\net10.0\SPA.Application.AssemblyInfoInputs.cache
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Application\obj\Debug\net10.0\SPA.Application.AssemblyInfo.cs
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Application\obj\Debug\net10.0\SPA.Application.csproj.CoreCompileInputs.cache
+C:\Users\chane\OneDrive\Desktop\Homework-3-main\SPA\SPA.Application\obj\Debug\net10.0\SPA.Application.sourcelink.json
