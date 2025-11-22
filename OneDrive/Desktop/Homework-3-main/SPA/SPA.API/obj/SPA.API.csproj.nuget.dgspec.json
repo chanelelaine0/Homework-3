@@ -558,6 +558,9 @@
             "projectReferences": {
               "C:\\Users\\chane\\OneDrive\\Desktop\\Homework-3-main\\SPA\\SPA.Domain\\SPA.Domain.csproj": {
                 "projectPath": "C:\\Users\\chane\\OneDrive\\Desktop\\Homework-3-main\\SPA\\SPA.Domain\\SPA.Domain.csproj"
+              },
+              "C:\\Users\\chane\\OneDrive\\Desktop\\Homework-3-main\\SPA\\SPA.Infrastructure\\SPA.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\chane\\OneDrive\\Desktop\\Homework-3-main\\SPA\\SPA.Infrastructure\\SPA.Infrastructure.csproj"
               }
             }
           }
